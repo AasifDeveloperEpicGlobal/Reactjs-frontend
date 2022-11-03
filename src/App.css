@@ -1,0 +1,104 @@
+.nav-ul li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.nav-ul li a {
+  color: #fff;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.nav-ul {
+  padding: 5px;
+  margin: 0;
+  background-color: skyblue;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  background-color: skyblue;
+}
+
+.inputBox {
+  display: block;
+  margin: 25px;
+  padding: 7px;
+  width: 300px;
+  border: 1px solid skyblue;
+}
+
+.fieldError {
+  color: red;
+  margin-top: -20px;
+  display: block;
+  margin-left: 24px;
+}
+
+.register,
+.product {
+  margin-left: 30%;
+}
+
+.product-list {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.product-list ul li{
+  display: inline-block;
+  border: 1px solid skyblue;
+  padding: 5px;
+  width: 150px;
+}
+
+.product-list ul{
+  margin: 0;
+}
+
+.registerButton {
+  margin: 25px;
+  padding: 10;
+  padding: 10px;
+  width: 150px;
+  background-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.login {
+  margin-left: 30%;
+}
+
+.nav-right {
+  text-align: right;
+}
+
+.loginButton {
+  margin: 25px;
+  padding: 10;
+  padding: 10px;
+  width: 150px;
+  background-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.logo {
+  width: 45px;
+  float: left;
+  border-radius: 50px;
+  margin-top: 3px;
+  margin-left: 20px;
+}
+
+.searchProduct{
+  width: 400px;
+  margin: 8px;
+  height: 40px;
+  border: 1px solid skyblue;
+  padding-left: 20px;
+}
